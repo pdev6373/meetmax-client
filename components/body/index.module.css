@@ -1,0 +1,45 @@
+.xLarge {
+  font-size: 18px;
+  line-height: 27px;
+  letter-spacing: 0px;
+}
+
+.large {
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.30000001192092896px;
+}
+
+.medium {
+  font-size: 14px;
+  line-height: 22px;
+  letter-spacing: 0.20000000298023224px;
+}
+
+.small {
+  font-size: 12px;
+  line-height: 19px;
+  letter-spacing: 0.20000000298023224px;
+}
+
+.xSmall {
+  font-size: 10px;
+  line-height: 16px;
+  letter-spacing: 0.20000000298023224px;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.semiBold {
+  font-weight: 600;
+}
+
+.mediumWeight {
+  font-weight: 500;
+}
+
+.regular {
+  font-weight: 400;
+}
